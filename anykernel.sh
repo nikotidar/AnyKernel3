@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Alicia Kernel by mystrelica@telegram
+kernel.string=
 do.devicecheck=0
 do.modules=0
 do.systemless=1
